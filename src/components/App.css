@@ -1,0 +1,38 @@
+/* Styles go here */
+
+#content {
+    background-color: transparent;
+    border-radius: 10px 10px;
+}
+
+.card-body {
+    background-color: black;
+    border-radius: 10px 10px;
+    box-shadow: 5px 5px 5px teal;
+}
+
+#tkn {
+    color: lightskyblue;
+}
+
+#eth {
+    color: lightskyblue;
+}
+
+.row {
+    background-image: url(https://thumbs.gfycat.com/ObviousLimpArgentinehornedfrog-size_restricted.gif);
+}
+
+.btn-dark {
+    background-color: black;
+    box-shadow: 5px 5px 3px teal;
+}
+
+.background {
+    background-image: url(https://thumbs.gfycat.com/ObviousLimpArgentinehornedfrog-size_restricted.gif);
+}
+
+.title {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
