@@ -2,7 +2,7 @@
 
 ### A platform to exchange ERC20 tokens and Ether
 
-##### \*Completed my following Gregory from [DApp University](https://www.dappuniversity.com/)
+##### \*Completed this project by following Gregory from [DApp University](https://www.dappuniversity.com/)
 
 #### To Use
 
